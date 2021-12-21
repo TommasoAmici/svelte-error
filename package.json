@@ -35,7 +35,7 @@
     "rollup": "^2.61.1",
     "rollup-plugin-svelte": "^7.1.0",
     "sass": "^1.45.1",
-    "svelte": "3.44.2",
+    "svelte": "3.44.3",
     "svelte-preprocess": "^4.10.1"
   }
 }
